@@ -1,4 +1,4 @@
-# docker_capserjs
+# CapserJS
 CasperJS in a docker container. 
 
 This container is made for running CasperJS tests.
