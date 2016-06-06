@@ -25,5 +25,7 @@ cd ..
 rm -rf casperjs/.git
 mv casperjs /opt/
 ln -sf /opt/casperjs/bin/casperjs /usr/local/bin/casperjs
+cd /opt/casperjs
+rm -rf *.gemspec docs rpm samples
 apt-get remove -y \
   git
