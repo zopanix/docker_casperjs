@@ -2,7 +2,7 @@ FROM ubuntu:14.04.4
 
 MAINTAINER zopanix <zopanix@gmail.com>
 
-ENV CASPERJS_VERSION=1.1.1
+ENV CASPERJS_VERSION=1.1.2
 
 ADD ./resources /resources
 
