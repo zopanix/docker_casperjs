@@ -6,7 +6,7 @@ This container is made for running CasperJS tests.
 ## Versions
 
 * PhantomJS : 2.0.0
-* CasperJS  : 1.1.1
+* CasperJS  : 1.1.2
 
 For other versions of CasperJS, please go checkout out the different tags.
 
