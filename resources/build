@@ -17,7 +17,7 @@ apt-get clean
 # Installing CasperJS
 ###
 # Cloning Repo
-git clone git://github.com/n1k0/casperjs.git
+git clone git://github.com/casperjs/casperjs.git
 cd casperjs
 git checkout ${CASPERJS_VERSION}
 cd ..
