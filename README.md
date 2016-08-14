@@ -12,4 +12,4 @@ For other versions of CasperJS, please go checkout out the different tags.
 
 ## Usage
 
-```docker run -v /path/to/tests:/data zopanix/casperjs yourscript.js```
+```docker run --rm -v /path/to/tests:/data zopanix/casperjs yourscript.js```
